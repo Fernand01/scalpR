@@ -1,17 +1,121 @@
-2/3/18
+2/3/18 - Updated 11/30/18
 
 scalpV: A Fraud Prevention Mobile Application to secure validity for an event  
 
 White Paper
 
-Abstract: Fight Test: A simple, automatic scanning of admissions papers to any event within seconds.  Providing a validation that the admissions papers being purchased are in fact valid and have not be already used to enter a venue.  API access provides part of the solution, seamless customer experience providing confirmation and security of their purchase.  This will eventually scale for a marketable of (XXXXXXXXXX) providing secure validations, social media connection and digital exchanges, wiping out the duplication issue for good with token caching technology using a server-less cloud architecture. It is also Yoshimi battling the pink robots, simply put…
+Abstract: Fight Test: A simple, automatic scanning of admissions papers to any event within seconds.  
+Providing a validation that the admissions papers being purchased are in fact valid and have not be already used to enter 
+a venue.  API access provides part of the solution, seamless customer experience providing confirmation and security of 
+their purchase.  This will eventually scale for a marketable of (XXXXXXXXXX) providing secure validations, social media 
+connection and digital exchanges, wiping out the duplication issue for good with token caching technology using a server-less 
+cloud architecture. It is also Yoshimi battling the pink robots, simply put…
 
-1. Introduction-Version 1 Yoshimi: Currently Ticketmaster owns XXX% and majority stake in the event/entertainment arena.  Customers are frustrated with extra fees, bots/scalpers snagging tickets before a “true fan” can manage to secure the nose bleed section of Madison Square Garden for $700.00.  There are multiple flaws in this technology architecture and scalpV can provide a better customer experience when ticket buyers have to finally face that bot in the street to by the ticket for  a 150% mark up.  scalpV can not stop the efforts of scalpers, that is not its objective at the core.  scalpV will however, allow the last minute ticket buyer or any buyer who could not buy from the event’s “true” source can in fact determine 1. if the ticket is legit 2. if it has entered the venue.  This reassurance before you buy the ticket should at least have an effect on the counterfeit ticket providers, hopefully eliminating them completely. 
+1. Introduction-Version 1 Yoshimi: Currently Ticketmaster owns XXX% and majority stake in the event/entertainment arena.  
+Customers are frustrated with extra fees, bots/scalpers snagging tickets before a “true fan” can manage to secure the nose 
+bleed section of Madison Square Garden for $700.00.  There are multiple flaws in this technology architecture and scalpV 
+can provide a better customer experience when ticket buyers have to finally face that bot in the street to by the ticket 
+for  a 150% mark up.  scalpV can not stop the efforts of scalpers, that is not its objective at the core.  
+scalpV will however, allow the last minute ticket buyer or any buyer who could not buy from the event’s “true” source 
+can in fact determine 1. if the ticket is legit 2. if it has entered the venue.  This reassurance before you buy the ticket 
+should at least have an effect on the counterfeit ticket providers, hopefully eliminating them completely. 
 	What is needed are 1 Mobile IOS Developer, 3 Designers/UX, 1 architect, 1 Backend, 1 Frontend 
 	in reserve.  Currently in deficit for Android..
-2. Version 2 : The Battle; Currently with scalpV1 in place in the market, there is still one more solution to provide and one that could drastically decline the number of duplicate tickets for their events. Solving the problem of duplication.  Currently you can print a ticket and recopy it to resemble a an electronically printed ticket, but there are even counterfeiters that will sell real rectangular tickets with the perforated middle to tear for admission (the original duplication preventer) and sell these to people just outside the venue but just out of reach to verify with the door guy.  A bad experience for the customer that TM has not solved.   By employing token verification and encryption we could pass these passwords and coins so that every time after original delivery, every time it is duplicated the coin passes on only to the new copy.  Even if someone was so good to photoshop a ticket, the coin would not be present and scalpV could scan and would also recognize this token technology allowing for data of how many times people are duplicating tickets from a single ticket, the token would also be able to provide the original source for every transfer including the original one from TM to the attendee, showing you accounts that are in fact using their account with TM to solely buy tickets for scalping.  Through blockchain technology.There may be possibilities to look into the metadata providing information from the origin and providing future interest.
 
 
+2. Version 2 : The Battle; Currently with scalpV1 in place in the market, there is still one more solution to provide 
+and one that could drastically decline the number of duplicate tickets for their events. Solving the problem of duplication.  
+Currently you can print a ticket and recopy it to resemble a an electronically printed ticket, but there are even 
+counterfeiters that will sell real rectangular tickets with the perforated middle to tear for admission (the original 
+duplication preventer) and sell these to people just outside the venue but just out of reach to verify with the door guy. 
+A bad experience for the customer that TM has not solved.   By employing token verification and encryption we could pass 
+these passwords and coins so that every time after original delivery, every time it is duplicated the coin passes on only 
+to the new copy.  Even if someone was so good to photoshop a ticket, the coin would not be present and scalpV could scan and 
+would also recognize this token technology allowing for data of how many times people are duplicating tickets from a single 
+ticket, the token would also be able to provide the original source for every transfer including the original one from TM to 
+the attendee, showing you accounts that are in fact using their account with TM to solely buy tickets for scalping.  Through 
+blockchain technology.There may be possibilities to look into the metadata providing information from the origin and providing 
+future interest.
+
+
+ Legit Tix White Paper
+Abstract:  A Mobile Application, providing artist a direct marketplace  for their fans, giving a consumer experience of 
+safety and security provided direct by the artist to the fan through the ticket purchasing process.  Giving the fan 
+accessibility to verify tickets through street vendors or through digital transactions, the closed mobile application 
+environment will provide authentication for fans and accessibility to transfer tickets throughout the ecosystem.  Each fan 
+will be required to download the app to access the purchase of tickets and no mobile application will be allowed to purchase 
+more than 2-4 tickets per show. This application will also provide the elimination of duplication of tickets throughout the 
+echo system.  With a server-less architecture that will provide infinite scalability no matter the event size.
+
+Introduction: The ticket ecosystem has throughout time created the one thing that the artist, providing the entertainment 
+have been trying to keep alive and is the reason they do what they do.  To provide inclusiveness.  Allowing any person no 
+matter their background the opportunity to access the entertainer and their performance is the performer/artist’s #1 goal.  
+This is not the case in the current live entertainment market.  Currently the option is that “Artist” who are the 
+“true owners” of the tickets that are produced have to choose a major retailer to market their tickets to every market, 
+provide 10-20 for the corporate sponsors, the 25-45 a show for the guest list of people the artist won’t ever even interact 
+with and the extra 200 the artist can play 52 car pick up with.  Recognizing that the artist has a relationship with each 
+venue/arena they perform, artist and venues can team up to take control of their event tickets as soon as the dates are 
+announced.  
+
+Verification - Step 1 of Legit Tix Solution - The initial solution of Legit Tix was to provide an event attendee the 
+opportunity to validate a ticket from a street side vendor that the ticket was a “valid” ticket and had “NOT” gone into 
+the venue yet.  This solution is mobile phone camera based, providing an automatic scan of a ticket informing the event 
+attendee if the ticket is “REAL” and if it “HAS GONE INTO THE VENUE” - This is a basic consumer facing “door scanner” that 
+only “ear marks” the ticket recognizing it in the Legit Tix database, but does not “Punch” the ticket as would be the protocol 
+for “official” door scanners which then in turn communicate with Legit Tix Database making all tickets “relevant” to that 
+ticket “invalid” bc a “ticket” has breached the door way and is not again allowed to be recognized by the consumer app scan.
+
+Duplication Elimination - Step 2 of Legit Tix Solution -  By starting the tickets on a blockchain we utilize an Etherium 
+private chain to keep “true” validation of tickets.  What Bitcoin was out to solve was elimination the “Double Spend” of the 
+dollar that the private ledgers allowed to happen through the cracks of their floors and an open ledger eliminates.   
+Through this same logic Legit Tix is eliminating the duplication of tickets, first by using mobile devices as authentication 
+through the mobile app, second purchasing has to happen in the app’s enclosed environment and transfers have to happen within 
+the application.  (if needed we can take care of PDF duplication as well…ask for more info).   Second is the ticket first 
+start on the blockchain so there is a record of where the tickets move to…it’s like kite strings on every ticket having a 
+drone document what is happening every moment the ticket is in an active movement state.  This solution is necessary to 
+support the consumer facing validation solution otherwise you create a “race to the Door” scenario 
+
+Infinite Scalability Step 3 of Legit ~Tix Solution : To provide the necessary infrastructure support we have the ability to 
+scale to AWS, AZURE or Google Cloud to provide Real Time Results, Geo Location of ticket transactions and the ability to 
+handle millions of transactions at any given moment in support of last minute ticket buyers transacting tickets outside the 
+venue.  No matter the 200 seat max capacity Tuesday night Theater show or the Super Bowl this architecture can handle and 
+wants the opportunity to handle this traffic- never said Jeff Bezos, but he would…
+
+Consumer Experience :  Current experience - you search (““Artist Name” Tour”) the entire first page of the internet is 
+covered in Ticket Selling websites with no direct link to the artist and no differentiations of each other than the price at 
+check out…maybe…By directing every ticket purchaser to downloading a direct artist to consumer mobile application.  This 
+provides a first layer of authentication eliminating bots since a physical device is required to access the app.  The 
+scalper is now required to buyer 10s of 1000s of devices to get initial access to the application.  (First layer of security), 
+If a scalper manages to get an extra device we can discuss probability and risk of this at that time.  By allowing the 
+consumer the interface to validate a ticket the same way a “door scanner” does through internet protocols and wifi networks 
+but only allowing an ear mark for Legit Tix protocols only a consumer has the first time access to documenting cash 
+transactions with scalpers at the venue.  This is the initial offering of Legit Tix.  To enhance Legit Tix we would like to 
+support a full mobile tour experience application/marketplace to give the artist their own payment processing platform… 
+
+Initial Consumer Experience - When fan searches for tickets they will be directed by all avenues to download an app on their 
+mobile phone, for guaranteed tickets to the show.  Via download by fan, they will be authenticated and have the ability to 
+purchase between 2-4 tickets.  This mobile application can also provide tour updates, social media etc, but is running with a 
+backend of ticket authentication and ability to transfer and give a market place to the fan to purchase tickets.  When a fan 
+reviews your shows and picks the date they want to attend instead of being directed to Ticketmaster or Stubhub, they will be 
+presented with the option for downloading a specific application that is authorized for the specific tour… Within this 
+application they will have direct tour access to each show and everything that is already offered on the artist website.  The 
+main focus is that fans can now go to an artist’s tour dates, select a show and be directed to the artist’s very own skinned 
+market place to buy ticket utilizing apple pay and samsung pay.  once they purchase the ticket they can transfer to samsung or 
+apple wallet and can transfer through this avenue to other people still adhering to the blockchain rules.  Artist will also 
+be able to market show enhancements, i.e. parking, merchandise etc…
+
+Artist Experience
+Artist now have a direct, secure market place to provide ticket to fans.  Eliminating all types of fraud.  With the Legit Tix 
+Solution, Artist will have first time access to cash transactions to tickets moments before the show with geo location…, 
+artists will be notified of any fraud tickets that were scanned through the app…, artist will have more control over the 
+price of tickets and be able to price according to the market after analyzing just one tour of data.The ability to access 
+this data will create a new category for computation in the fraud arena.  Artist will finally be able to provide an 
+“Inclusive” experience for all to have the chance to attend.  
+ 
+
+Conclusion:
+By Utilizing the Legit Tix Solution, Artist for the first time provide a mobile experience related to their tour, 
+including a ticket market place and guarantee of authentication and fraud prevention.  
 	
 ￼
 ￼
